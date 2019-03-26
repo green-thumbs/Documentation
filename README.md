@@ -11,11 +11,9 @@ This documentation respository can be used for tracking the weekly deliverables 
 
 #### Documents
 
-[Build idea](week1/Project_Build_idea_Lawn.docx)
-
-[Project Plan draft](week1/Projectplan2.docx)
-
-[Project Timeline draft](week1/Projecttimeline_for_GTLSS.xlsx)
+- [Build idea](week1/Project_Build_idea_Lawn.docx)
+- [Project Plan draft](week1/Projectplan2.docx)
+- [Project Timeline draft](week1/Projecttimeline_for_GTLSS.xlsx)
 
 ## Week 2
 
@@ -27,7 +25,7 @@ This documentation respository can be used for tracking the weekly deliverables 
 
 #### Documents
 
-Links to docs here
+- Links to docs here
 
 ## Week 3
 
@@ -40,7 +38,7 @@ Links to docs here
 
 #### Documents
 
-Links to docs here
+- Links to docs here
 
 ## Week 4
 
@@ -51,7 +49,7 @@ Links to docs here
 
 #### Documents
 
-Links to docs here
+- Links to docs here
 
 ## Week 5
 
@@ -63,7 +61,7 @@ Links to docs here
 
 #### Documents
 
-Links to docs here
+- Links to docs here
 
 ## Week 6
 
@@ -74,7 +72,7 @@ Links to docs here
 
 #### Documents
 
-Links to docs here
+- Links to docs here
 
 ## Week 7
 
@@ -85,7 +83,7 @@ Links to docs here
 
 #### Documents
 
-Links to docs here
+- Links to docs here
 
 ## Week 8
 
@@ -97,4 +95,4 @@ Links to docs here
 
 #### Documents
 
-Links to docs here
+- Links to docs here
