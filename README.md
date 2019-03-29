@@ -25,7 +25,7 @@ This documentation respository can be used for tracking the weekly deliverables 
 
 #### Documents
 
-- Links to docs here
+- [Project Requirements draft](week2/Project%20Requirements.docx)
 
 ## Week 3 (Apr 1-7)
 
