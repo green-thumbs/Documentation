@@ -28,6 +28,7 @@ This documentation respository can be used for tracking the weekly deliverables 
 - [Project Requirements draft](week2/Project%20Requirements.docx)
 - [GTLSS Wireframe](week2/GTLSS%20Wireframe.epgz)
 - [GTLSS ACD](week2/GTLSS%20ACD.epgz)
+- [GTLSS Entity Relational Diagram (ERD)](week2/GTLSS%20Entity%20Relational%20Diagram%20(ERD).docx)
 
 ## Week 3 (Apr 1-7)
 
