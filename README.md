@@ -29,6 +29,7 @@ This documentation respository can be used for tracking the weekly deliverables 
 - [GTLSS Wireframe](week2/GTLSS%20Wireframe.epgz)
 - [GTLSS ACD](week2/GTLSS%20ACD.epgz)
 - [GTLSS Entity Relational Diagram (ERD)](week2/GTLSS%20Entity%20Relational%20Diagram%20(ERD).docx)
+- [GTLSS Project Plan v. 13 from Slack](week2/GTLSS%20Project%20Plan%20v13.docx)
 
 ## Week 3 (Apr 1-7)
 
