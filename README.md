@@ -19,9 +19,9 @@ This documentation respository can be used for tracking the weekly deliverables 
 
 #### Tasks
 
-- [ ] Submit project plan in accordance with course requirements
-- [ ] Post an outline of key project milestones on UMUC LEO
-- [ ] Team collaboration via Slack/Github
+- [x] Submit project plan in accordance with course requirements
+- [x] Post an outline of key project milestones on UMUC LEO
+- [x] Team collaboration via Slack/Github
 
 #### Documents
 
@@ -34,10 +34,10 @@ This documentation respository can be used for tracking the weekly deliverables 
 
 #### Tasks
 
-- [ ] Develop formal test plan for project
-- [ ] Create user guide describing user perspective/interaction with site
-- [ ] Complete peer reviews 1 (individual effort)
-- [ ] Team collaboration via Slack/Github
+- [x] Develop formal test plan for project
+- [x] Create user guide describing user perspective/interaction with site
+- [x] Complete peer reviews 1 (individual effort)
+- [x] Team collaboration via Slack/Github
 
 #### Documents
 
