@@ -41,7 +41,8 @@ This documentation respository can be used for tracking the weekly deliverables 
 
 #### Documents
 
-- Links to docs here
+- [Test Plan from Slack](week3/GTLSS Test Plan v8.docx)
+- [User Guide from Slack]
 
 ## Week 4 (Apr 8-14)
 
