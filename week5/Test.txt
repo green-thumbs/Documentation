@@ -1,1 +1,9 @@
 Test
+CREATE TABLE Inventory (
+    inventoryId INT UNSIGNED AUTO_INCREMENT,
+    imagePath VARCHAR(75) NOT NULL UNIQUE,
+    inventoryName VARCHAR(45) NOT NULL UNIQUE,
+    inventoryDesc VARCHAR(200) NOT NULL,
+    price DECIMAL(8,2) NOT NULL,
+    PRIMARY KEY(inventoryId)
+);
