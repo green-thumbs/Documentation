@@ -49,35 +49,41 @@ This documentation respository can be used for tracking the weekly deliverables 
 
 #### Tasks
 
-- [ ] Complete project design in accorance with course requirements
-- [ ] Team collaboration via Slack/Github
+- [x] Complete project design in accorance with course requirements
+- [x] Team collaboration via Slack/Github
 
 #### Documents
 
-- Links to docs here
+- [Project Design](week4/ProjectDesign%20%20v11.docx)
 
 ## Week 5 (Apr 15-21)
 
 #### Tasks
 
-- [ ] Complete phase 1 source
-- [ ] Complete peer reviews 2 (individual effort)
-- [ ] Team collaboration via Slack/Github
+- [x] Complete phase 1 source
+- [x] Complete peer reviews 2 (individual effort)
+- [x] Team collaboration via Slack/Github
 
 #### Documents
 
-- Links to docs here
+- [Executive Summary](week5/Executive%20Summary%20for%20GTLSsv5.docx)
+- [GTLSS Source Files](https://github.com/green-thumbs/GTLSS_SourceFiles)
+- [GTLSS SQL Database](https://github.com/green-thumbs/SQL_DB_GTLSS)
+- [GTLSS Images](https://github.com/green-thumbs/Images_Collected_for_GTLSS)
 
 ## Week 6 (Apr 22-28)
 
 #### Tasks
 
-- [ ] Complete phase 2 source
-- [ ] Team collaboration via Slack/Github
+- [x] Complete phase 2 source
+- [x] Team collaboration via Slack/Github
 
 #### Documents
 
-- Links to docs here
+- [Executive Summary](week%206/Executive%20Summary%20for%20GTLSS%20v5.docx)
+- [GTLSS Source Files v. 2](https://github.com/green-thumbs/GTLSS_SourceFiles_Version2)
+- [GTLSS SQL Database](https://github.com/green-thumbs/SQL_DB_GTLSS)
+- [GTLSS Images](https://github.com/green-thumbs/Images_Collected_for_GTLSS)
 
 ## Week 7 (Apr 29-May 5)
 
